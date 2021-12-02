@@ -3,7 +3,7 @@
 
 def inviting(lst):
     for name in lst:
-        print("Hi {0}, You're invited to my party of Friday!".format(name))
+        print("Hi {0}, You're invited to my party on Friday!".format(name))
 
 
 inviting(['Ian', 'Chuck', 'Jeff'])
